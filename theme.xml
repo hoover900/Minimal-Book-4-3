@@ -282,8 +282,8 @@ license:        creative commons CC-BY-NC-SA
 		</menuTextSmall>
 		<menuBackground  name="menubg">
 			<!--<color>${backgroundCustomColor1}</color>!-->
-			<path>./_inc/systems/default/${airencolor}.jpg</path>
-			<cornerSize>20 20</cornerSize>
+		
+			<path>./_inc/systems/default/fullscreen-minimal.jpg</path>
 		</menuBackground>
 	</view>
 
