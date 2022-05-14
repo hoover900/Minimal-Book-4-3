@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:     Big White Logos 4:3
+Editor:         hoover900
+license:        creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>7</formatVersion>	<!-- Menu Color and Font settings -->
+
+	<view name="menu">
+
+		<menuText name="menutitle">
+			<fontPath>${bodyFont}</fontPath>
+			<fontSize>${menutitleFontSize}</fontSize>
+			<color>${customcolorheader}</color>
+		</menuText>
+
+		<menuText name="menufooter">
+			<fontPath>${bodyFont}</fontPath>
+			<fontSize>${menufooterFontSize}</fontSize>
+			<color>${customcolorfoooter}</color>
+		</menuText>
+
+		<menuText name="menutext">
+			<fontPath>${bodyFont}</fontPath>
+			<fontSize>${menutextFontSize}</fontSize>
+			<color>${customcolorstandard}</color>
+			<separatorColor>4d4b4b</separatorColor>
+			<selectorColor>eeeeee</selectorColor>
+			<selectedColor>181818</selectedColor>
+		</menuText>
+
+		<menuTextSmall name="menutextsmall">
+			<fontPath>${bodyFont}</fontPath>
+			<fontSize>${menutextsmallFontSize}</fontSize>
+			<color>${customcolorsubheader}</color>
+		</menuTextSmall>
+
+		<menuBackground  name="menubg">
+			<!--<color>${backgroundCustomColor1}</color>!-->
+			<path>./_inc/systems/default/fullscreen-minimal.jpg</path>
+		</menuBackground>
+
+	</view>
+</theme>

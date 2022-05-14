@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:     Big White Logos 4:3
+Editor:         hoover900
+license:        creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="screen">
+		<!-- Clock -->
+		<text name="clock">
+			<origin>0 0</origin>
+			<pos>0.020833333333333 0.034375</pos>
+			<size>0.1666666666666667 0.03125</size>
+			<fontSize>0.035</fontSize>
+			<alignment>left</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>${bodyFont}</fontPath>
+			<color>ffffff</color>
+		</text>
+
+		<!-- Battery -->
+		<batteryIndicator name="batteryIndicator">
+			<pos>0.915 0.013</pos> <!-- x=439.2 y=4.16 -->
+			<size>0.07 0.07</size> <!-- 33.6 x 22.4 -->
+			<full>./_inc/images/battery/battery-100.svg</full>
+			<at75>./_inc/images/battery/battery-75.svg</at75>
+			<at50>./_inc/images/battery/battery-50.svg</at50>
+			<at25>./_inc/images/battery/battery-25.svg</at25>
+			<empty>./_inc/images/battery/battery-0.svg</empty>
+			<incharge>./_inc/images/battery/battery-charging.svg</incharge>
+			<networkIcon>./_inc/images/wifi.svg</networkIcon>
+			<color>ffffff</color>
+		</batteryIndicator>
+
+		<!-- The Thing on left corner better false on default -->
+		<controllerActivity name="controllerActivity">
+			<visible>false</visible>
+		</controllerActivity>
+	</view>

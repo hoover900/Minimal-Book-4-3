@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!--
+theme name:     Big White Logos 4:3
+authors:        hoover900
+license:        creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<!-- Menu Title font Size -->
+		<menutitleFontSize>0.02523</menutitleFontSize>
+		<!-- Menu Footer font Size -->
+		<menufooterFontSize>0.02533</menufooterFontSize>
+		<!-- Menu font Size -->
+		<menutextFontSize>0.0253</menutextFontSize>
+		<!-- Small Menu font Size -->
+		<menutextsmallFontSize>0.025</menutextsmallFontSize>
+
+		<!-- Logo Font -->
+		<logoFont>./_inc/fonts/ChangaOne-Italic.ttf</logoFont>
+		<!-- Body Font -->
+		<bodyFont>./_inc/fonts/Cabin-Bold.ttf</bodyFont>
+	</variables>
+</theme>

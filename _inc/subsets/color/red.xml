@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+theme name:     Big White Logos 4:3
+authors:        hoover900
+license:        creative commons CC-BY-NC-SA
+-->
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<variables>
+		<!-- Menu colors -->
+		<customcolorheader>e93424</customcolorheader>
+		<customcolorsubheader>c13232</customcolorsubheader>
+		<customcolorfoooter>e93424</customcolorfoooter>
+
+		<!-- Background colors -->
+		<backgroundCustomColor1>620909</backgroundCustomColor1>
+		<backgroundCustomColor2>ba1212</backgroundCustomColor2>
+
+		<!-- Font Default color in menu -->
+		<customcolorstandard>999999</customcolorstandard>
+	</variables>
+</theme>
