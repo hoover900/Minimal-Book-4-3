@@ -1,9 +1,9 @@
 # White Logo 4:3
 
-White Logo 4:3 is an Emulation Station theme made for 640x480 Devices
+White Logo 4:3 is a Batocera Emulation Station theme made for 640x480 Devices
   
 Built and tested on [AmberELEC](https://AmberELEC.org). 
-Should also work on [Batocera](https://batocera.org/), [Retrobat](https://github.com/kaylh/RetroBat), [EMUELEC](https://github.com/EmuELEC/EmuELEC) or [JELOS](https://github.com/JustEnoughLinuxOS/distribution)
+This theme should also work on [Batocera](https://batocera.org/), [Retrobat](https://github.com/kaylh/RetroBat), [EMUELEC](https://github.com/EmuELEC/EmuELEC) or [JELOS](https://github.com/JustEnoughLinuxOS/distribution)
 
 ---
   
@@ -15,8 +15,12 @@ Should also work on [Batocera](https://batocera.org/), [Retrobat](https://github
 
 ---
 
-## Previews
+## Screenshots
   
-| System | Metadata |
-|----|----|
-| ![1](https://user-images.githubusercontent.com/77732736/149666715-0af5882a-fe0f-4342-af7d-13978609d9b8.jpg) | ![2](https://user-images.githubusercontent.com/77732736/149666718-b531cced-e591-4b16-bfdf-0c11671e0936.jpg) |
+|System Carousel|System Carousel|System Carousel
+|---------------|--------------|---------------|
+|<img src="https://user-images.githubusercontent.com/2801694/168410688-703ff98e-8251-46bc-b641-81e3ff6ab363.jpg" width="320">|<img src="https://user-images.githubusercontent.com/2801694/168410695-0d5b042f-979e-4b07-9e82-aa9015f83230.jpg" width="320">|<img src="https://user-images.githubusercontent.com/2801694/168410695-0d5b042f-979e-4b07-9e82-aa9015f83230.jpg" width="320">|
+
+|Video View|Grid View|Detail View|
+|----------|---------|-----------|
+|<img src="https://user-images.githubusercontent.com/2801694/168410688-703ff98e-8251-46bc-b641-81e3ff6ab363.jpg" width="320">|<img src="https://user-images.githubusercontent.com/2801694/168410695-0d5b042f-979e-4b07-9e82-aa9015f83230.jpg" width="320">|<img src="https://user-images.githubusercontent.com/2801694/168410695-0d5b042f-979e-4b07-9e82-aa9015f83230.jpg" width="320">|
