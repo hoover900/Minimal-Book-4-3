@@ -9,7 +9,7 @@ Should also work on [Batocera](https://batocera.org/), [Retrobat](https://github
   
 ## Details
 
-- Built for 4:3 resolutions (specifically tested on the Anbernic RG351V, RG351MP running AmberELEC) 
+- Built for 4:3 resolutions (specifically tested on the Anbernic RG351V running AmberELEC) 
 - System, basic, detailed, video and grid views are supported
 - Support for every AmberELEC System an Automatic Game Collection
 
